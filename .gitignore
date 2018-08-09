@@ -1,0 +1,4 @@
+cloud-function-key.json
+node_modules
+functions/firebase-debug.log
+functions/package-lock.json
